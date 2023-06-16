@@ -1,6 +1,6 @@
 # Welcome to My Blockchain
 ***
-Group project with Adrian Sardinata and Soraia Lima
+Group project -- Adrian Sardinata and Soraia Lima
 ## Task
 my_blockchain is a project that creates a program that allows users to execute commands for creating and managing a blockchain.
 
